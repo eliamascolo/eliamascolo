@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I do research as a PhD student in the @ErillLab, where I study the evolution of transcriptional gene regulatory systems.
+I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), where I study the evolution of transcriptional gene regulatory systems.
 
-Current projects:
+####Current projects:
 
 I'm developing methods to detect cross-regulations between chromosomal genes and mobile genetic elements -> [MGE-TF project](https://github.com/ErillLab/MGE_TF).
 
