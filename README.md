@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), where I study the evolution of transcriptional gene regulatory systems.
+I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), where I study the evolution of gene regulatory networks.
 
 #### Current projects:
 
-I'm developing methods to detect cross-regulations between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
+I'm developing methods to detect transcriptional cross-regulations between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
 
-We have shown that such cross-regulation can be implemented by some viruses to *hack* the gene network of the host they infect ([Mascolo *et al.* 2022](https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full)), via computational analyses **&rarr;** [LPEG phages project](https://github.com/ErillLab/LPEG_phages)
+We have shown that some viruses evolve such cross-regulations to *hack* the gene network of the host they infect ([Mascolo *et al.* 2022](https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full)), via computational analyses **&rarr;** [LPEG phages project](https://github.com/ErillLab/LPEG_phages)
 
-We are also developing new models of transcriptional regulations that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
-The algorithm we are developing can learn complex DNA patterns in the data via *genetic programming* **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP)
+We are also developing new models of transcriptional regulation that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
+The software we are developing can learn complex DNA patterns from the data (promoters of known target genes) via a *genetic programming* algorithm **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP)
 
 
 
