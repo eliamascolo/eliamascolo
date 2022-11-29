@@ -11,7 +11,7 @@ We have shown that some viruses evolve such cross-regulations to *hack* the gene
 We are also developing new models of transcriptional regulation that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
 The software we are developing can learn complex DNA patterns from the data (promoters of known target genes) via a *genetic programming* algorithm **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP)
 
-### Find me elsewhere 🌎
+#### Find me elsewhere
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/EliaMascolo)
 
