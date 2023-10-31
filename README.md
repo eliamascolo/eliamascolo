@@ -4,7 +4,7 @@ I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), w
 
 #### Current projects:
 
-- I'm developing methods to detect transcriptional cross-regulations between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
+- I'm developing computational methods to detect transcriptional cross-regulation between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
 
 - We are also developing new models of transcriptional regulation that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
 The software we are developing can learn complex DNA patterns from biological data (promoters of known target genes) using an *evolutionary algorithm* **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP_shape)
