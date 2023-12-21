@@ -2,14 +2,14 @@
 
 I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), where I study the evolution of gene regulatory networks.
 
-#### Current projects:
+#### Current research projects:
 
 - I'm developing computational methods to detect transcriptional cross-regulation between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
 
 - We are also developing new models of transcriptional regulation that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
 The software we are developing can learn complex DNA patterns from biological data (promoters of known target genes) using an *evolutionary algorithm* **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP_shape)
 
-#### Completed projects
+#### Completed research projects
 
 - We have shown that some viruses evolve host-MGE cross-regulations to *hack* the gene network of the host they infect and synchronize lysis with the host life cycle ([Mascolo *et al.* 2022](https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full)), via computational prediction and experimental validation **&rarr;** [LPEG phages project](https://github.com/ErillLab/LPEG_phages)
 
