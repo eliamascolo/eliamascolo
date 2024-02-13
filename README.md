@@ -13,7 +13,7 @@ The software we are developing can learn complex DNA patterns from biological da
 
 - We have shown that some viruses evolve host-MGE cross-regulations to *hack* the gene network of the host they infect and synchronize lysis with the host life cycle ([Mascolo *et al.* 2022](https://www.frontiersin.org/articles/10.3389/fmicb.2022.918015/full)), via computational prediction and experimental validation **&rarr;** [LPEG phages project](https://github.com/ErillLab/LPEG_phages)
 
-- We discovered the first known case of a virus that parasitizes another virus by attaching to it ([paper](https://www.nature.com/articles/s41396-023-01548-0)) through wet lab experiments and bioinformatics **&rarr;** [SPA project](https://github.com/ErillLab/SPA)
+- We discovered the first known case of a virus that attaches to another virus ([paper](https://www.nature.com/articles/s41396-023-01548-0)) through wet lab experiments and bioinformatics **&rarr;** [SPA project](https://github.com/ErillLab/SPA)
 
 #### Find me elsewhere
 
