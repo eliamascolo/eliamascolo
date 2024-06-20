@@ -23,7 +23,14 @@ The software we are developing can learn complex DNA patterns from biological da
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Elia-Mascolo)
 [![GoogleScholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xcVjtnsAAAAJ&hl=it&oi=ao)
 
+
 <!--
+
+#### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliamascolo&theme=merko&card_width=175&card_height=170&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliamascolo&border_radius=2&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eliamascolo)](https://git.io/streak-stats)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/  
 
