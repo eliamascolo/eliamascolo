@@ -4,9 +4,11 @@ I do research as a PhD student in the [Erill Lab](https://erilllab.umbc.edu/), w
 
 #### Current research projects:
 
+- I use information theory to uncover general principles of molecular evolution. In a work we recently pubished as a [pre-print](https://doi.org/10.1101/2024.11.11.623117), currently submitted to the *Journal of Theoretical Biology*, we show mathematically predictable patterns in the evolution of transcription factor binding motifs on DNA **&rarr;** [ITCM project](https://github.com/ErillLab/Info-Theo-of-Composite-Motifs)
+
 - I'm developing computational methods to detect transcriptional cross-regulation between chromosomal genes and mobile genetic elements **&rarr;** [MGE-TF project](https://github.com/ErillLab/MGE_TF).
 
-- We are also developing new models of transcriptional regulation that can capture the role of variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
+- I'm also developing new models of transcriptional regulation that can account for variable spacers in DNA binding motifs (due to flexible components), as well as DNA shape features.
 The software we are developing can learn complex DNA patterns from biological data (promoters of known target genes) using an *evolutionary algorithm* **&rarr;** [MDGP project](https://github.com/ErillLab/MD_GP_shape)
 
 #### Completed research projects
@@ -17,6 +19,7 @@ The software we are developing can learn complex DNA patterns from biological da
 
 #### Find me elsewhere
 
+[![BlueSky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/eliamascolo.bsky.social)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/EliaMascolo)
 [![ORCID Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2977-7844)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliamascolo/)
